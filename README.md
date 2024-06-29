@@ -1,3 +1,5 @@
+# Sydney Transport GTFS-Realtime Exporter
+
 A Prometheus exporter for the GTFS Realtime API
 
 Requires a https://opendata.transport.nsw.gov.au API key.
